@@ -19,4 +19,3 @@ cacheSolve <- function(x, ...) {
   inv <- solve(mat, ...)
   t$setInverse(inv)
 }
-![image](https://user-images.githubusercontent.com/87285373/125220877-2e90dd80-e27c-11eb-8aa9-1f1f19ddc34b.png)
